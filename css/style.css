@@ -3,3 +3,8 @@ h1 {
     font-size: 60px;
     color: red;
 }
+
+button {
+    padding: 6px 28px;
+    font-family: inherit;
+}
